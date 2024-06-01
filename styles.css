@@ -1,10 +1,10 @@
 @font-face {
     font-family: Montserrat;
-    src: url("/assets/Montserrat/Montserrat-VariableFont_wght.ttf");
+    src: url("./assets/Montserrat/Montserrat-VariableFont_wght.ttf");
 }
 @font-face {
     font-family: Fraunces;
-    src: url("/assets/Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf");
+    src: url("./assets/Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf");
 }
 :root{
     --crl-darkcyan-primary: hsl(158, 36%, 37%);
